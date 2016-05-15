@@ -1,0 +1,86 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+    }
+    body {
+       height: 100%;
+    }
+
+    header {
+        background-color:#0085D4;
+        padding:5px;
+        border:5px solid #000000;
+        font-size: 30px;
+        display: block;
+        width: 790px;
+        font-variant: small-caps;
+    }
+
+    nav {
+        background-color:#DCDBB9;
+        padding:5px;
+        border:2px solid #000000;
+        display: inline-block;
+        vertical-align: top;
+        font-size:25px;
+        width:275px;
+        font-variant: small-caps;
+    }
+
+    nav a {
+      width: inherit !important;
+    }
+    .navlink {
+        line-height:;
+        background-color:;
+        width:125px;
+        display: inline-block;
+        vertical-align: top;
+        color: purple;
+    }
+    nav ul {
+        list-style-type: none;
+        width:inherit;
+    }
+    a {
+        color: ;
+    }
+    section {
+        width: 516px;
+        display: inline-block;
+        padding-left: 10px;
+    }
+    h2 {
+      font-variant: small-caps;
+      font-size: 35px;
+    }
+    h3{
+      font-size: 25px;
+      font-weight: bolder;
+      font-variant: small-caps;
+    }
+    aside {
+      width: 125px;
+      display: inline-block;
+      vertical-align: top;
+      background-color:;
+      font-size: ;
+    }
+    img {
+      height: 300px;
+      width: 275px;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        text-align:;
+        padding:5px;
+        display: block;
+    }
+Sign up for free

@@ -1,0 +1,71 @@
+
+    html {
+      height: 100%;
+    }
+    body {
+       height: 100%;
+    }
+
+    header {
+        background-color: #70CDFF;
+        padding:5px;
+        border:5px solid black;
+        font-size: 25px;
+        display: block;
+        width: 1000px;
+    }
+    nav {
+        line-height:15px;
+        background-color:;
+        width:200px;
+        display: inline-block;
+        vertical-align: top;
+    }
+    nav ul {
+        list-style-type: none;
+    }
+    .navlink {
+      display: block;
+      height: 22px;
+      padding: 10px;
+      vertical-align: middle;
+      color: black;
+    }
+    a {
+        color: ;
+    }
+    section {
+        width: 500px;
+        display: inline-block;
+    }
+    aside {
+      width: 125px;
+      display: inline-block;
+      vertical-align: top;
+      background-color:;
+      font-size: ;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    img {
+      width: 300px;
+      height: 225px;
+
+    }
+    .pagetitle {
+      display: inline-block;
+      background-color:#FFFA89;
+      width: 1000px;
+      border: 5px solid black;
+      padding: 10px;
+      text-align: center;
+
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        text-align:;
+        padding:5px;
+        display: block;
+    }
